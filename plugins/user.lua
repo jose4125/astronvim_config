@@ -9,4 +9,12 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "embark-theme/vim",
+    as = "embark",
+  },
+  "ntpeters/vim-better-whitespace",
+  "AndrewRadev/splitjoin.vim",
+  "leafOfTree/vim-matchtag",
+  "gpanders/editorconfig.nvim",
 }

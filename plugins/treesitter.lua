@@ -20,7 +20,6 @@ return {
       "markdown",
       "prisma",
       "python",
-      "regex",
       "scala",
       "scss",
       "solidity",
